@@ -97,7 +97,7 @@
 
 　
 
-두 가지 방법을 사용한 예제는 [여기](https://github.com/leeheefull/java-playground/tree/main/src/main/java/com/leeheefull/designpattern/adapter) 있습니다.
+두 가지 방법을 사용한 예제는 [여기](https://github.com/leeheefull/design-pattern/tree/main/src/main/java/com/leeheefull/designpattern/adapter) 있습니다.
 
 　
 
@@ -151,7 +151,7 @@
 
 　
 
-오브젝트 어댑터 방식을 사용한 간단한 예제는 [여기](https://github.com/leeheefull/java-playground/tree/main/src/main/java/com/leeheefull/designpattern/adapter/example) 있습니다.
+오브젝트 어댑터 방식을 사용한 간단한 예제는 [여기](https://github.com/leeheefull/design-pattern/tree/main/src/main/java/com/leeheefull/designpattern/adapter/example) 있습니다.
 
 　
 
